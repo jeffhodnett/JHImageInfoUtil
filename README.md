@@ -8,7 +8,6 @@ Output looks like this
 
 `
 File count 3 
-------------
 374x418 -> 1
 375x500 -> 2
 `
